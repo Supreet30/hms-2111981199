@@ -10,5 +10,5 @@
 - database/init_database.sql
 - python run.py
 
-# Supreet Singh
-# 2111981199
+Supreet Singh
+2111981199
