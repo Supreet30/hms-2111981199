@@ -1,7 +1,7 @@
 ## Requirements
 
-- Python 3.9 or higher
-- MySQL 8.0 or higher
+- Python 3.9
+- MySQL 8.0
 - Required Python packages (requirements.txt)
 
 ## Run
